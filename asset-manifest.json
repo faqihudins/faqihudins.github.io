@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/faqihudins/faqihudins.github.io.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/faqihudins/faqihudins.github.io.git/static/js/main.e64f3ca7.chunk.js",
+    "main.js.map": "/faqihudins/faqihudins.github.io.git/static/js/main.e64f3ca7.chunk.js.map",
+    "runtime-main.js": "/faqihudins/faqihudins.github.io.git/static/js/runtime-main.9ed79e50.js",
+    "runtime-main.js.map": "/faqihudins/faqihudins.github.io.git/static/js/runtime-main.9ed79e50.js.map",
+    "static/js/2.5c351b2b.chunk.js": "/faqihudins/faqihudins.github.io.git/static/js/2.5c351b2b.chunk.js",
+    "static/js/2.5c351b2b.chunk.js.map": "/faqihudins/faqihudins.github.io.git/static/js/2.5c351b2b.chunk.js.map",
+    "index.html": "/faqihudins/faqihudins.github.io.git/index.html",
+    "precache-manifest.4c55f48db0e06d4bb114af48c7781c72.js": "/faqihudins/faqihudins.github.io.git/precache-manifest.4c55f48db0e06d4bb114af48c7781c72.js",
+    "service-worker.js": "/faqihudins/faqihudins.github.io.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/faqihudins/faqihudins.github.io.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5c351b2b.chunk.js.LICENSE.txt": "/faqihudins/faqihudins.github.io.git/static/js/2.5c351b2b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/faqihudins/faqihudins.github.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed79e50.js",
+    "static/js/2.5c351b2b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e64f3ca7.chunk.js"
+  ]
+}
